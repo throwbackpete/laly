@@ -5,16 +5,16 @@
   sholaomotosho.com -v2
 </h1>
 <p align="center">
-  The second iteration of <a href="https://sholaomotosho.vercel.app" target="_blank">sholaomotosho.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.Vercel.com/" target="_blank">Vercely</a>
+  The second iteration of <a href="https://sholaomotosho.vercel.app" target="_blank">sholaomotosho.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.Vercel.com/" target="_blank">Vercel</a>
 </p>
 
 
-![demo](https://raw.githubusercontent.com/shola1y/laly/main/src/images/demo.png)
+
 
 
 ### TL;DR
 
-Credit to Brittany Chiang
+Theme based on Brittany Chiang's personal site V4.
 ## 🛠 Installation & Set Up
 
 1. Install the Gatsby CLI
