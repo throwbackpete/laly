@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/shola1y/laly/main/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://raw.githubusercontent.com/shola1y/laly/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
   sholaomotosho.com -v2
